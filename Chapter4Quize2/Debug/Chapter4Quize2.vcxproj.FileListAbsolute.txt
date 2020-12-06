@@ -1,0 +1,2 @@
+\\192.168.114.101\Personal$\bowen.yuan\Desktop\L_C++\Chapter4Quize2\Debug\Chapter4Quize2.exe
+\\192.168.114.101\Personal$\bowen.yuan\Desktop\L_C++\Chapter4Quize2\Debug\Chapter4Quize2.pdb
