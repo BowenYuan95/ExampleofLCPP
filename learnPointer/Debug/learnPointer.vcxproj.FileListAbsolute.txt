@@ -1,0 +1,2 @@
+\\192.168.114.101\Personal$\bowen.yuan\Desktop\L_C++\learnPointer\Debug\learnPointer.exe
+\\192.168.114.101\Personal$\bowen.yuan\Desktop\L_C++\learnPointer\Debug\learnPointer.pdb
